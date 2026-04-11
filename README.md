@@ -23,9 +23,13 @@ This project focuses on designing and implementing a Data Warehouse for an E-Com
 
 ## 📊 Features
 -->Data extraction from multiple sources
+
 -->Data cleaning and transformation
+
 -->Centralized data storage
+
 -->SQL-based data analysis
+
 -->Generation of business reports
 
 ---

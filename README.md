@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project focuses on designing and implementing a Data Warehouse for an E-Commerce system. It uses ETL (Extract, Transform, Load) techniques to process data and generate meaningful business insights.
 
----
 
 ## 🎯 Objectives
 - Build a centralized data warehouse
@@ -11,7 +10,6 @@ This project focuses on designing and implementing a Data Warehouse for an E-Com
 - Analyze sales data using SQL queries
 - Generate reports for decision-making
 
----
 
 ## 🛠️ Technologies Used
 - Python
@@ -19,7 +17,6 @@ This project focuses on designing and implementing a Data Warehouse for an E-Com
 - SQLite
 - SQL
 
----
 
 ## 📊 Features
 -->Data extraction from multiple sources
@@ -32,7 +29,6 @@ This project focuses on designing and implementing a Data Warehouse for an E-Com
 
 -->Generation of business reports
 
----
 
 ## 📈 Sample Output
 The system generates the following insights:

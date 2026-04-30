@@ -83,11 +83,11 @@ Error handling and validation techniques are applied to ensure data integrity an
 
 -->Interactive dashboards using Power BI or Tableau
 
-# 🌍 SDG Goals Alignment
+## 🌍 SDG Goals Alignment
 
 This project aligns with multiple United Nations Sustainable Development Goals (SDGs) by leveraging data analytics to support sustainable business practices, efficient resource utilization, and economic growth.
 
-# 🎯 SDG 8: Decent Work and Economic Growth
+## 🎯 SDG 8: Decent Work and Economic Growth
 
 The E-Commerce Data Warehouse enables businesses to analyze sales trends, customer behavior, and market demand. By providing actionable insights, it helps organizations make informed decisions that lead to increased productivity and sustainable economic growth.
 
@@ -99,7 +99,7 @@ Increase revenue streams
 
 This contributes to stable job creation and economic expansion, supporting SDG 8’s objective of promoting inclusive and sustainable economic growth.
 
-# 🏭 SDG 9: Industry, Innovation, and Infrastructure
+## 🏭 SDG 9: Industry, Innovation, and Infrastructure
 
 This project demonstrates the use of modern technologies like ETL pipelines, data warehousing, and analytics systems, which are essential components of digital infrastructure.
 
@@ -111,7 +111,7 @@ Support innovation through data-driven strategies
 
 The system acts as a foundation for advanced technologies such as AI, machine learning, and business intelligence tools, thereby promoting industrial innovation and resilient infrastructure.
 
-# ♻️ SDG 12: Responsible Consumption and Production
+## ♻️ SDG 12: Responsible Consumption and Production
 
 One of the key contributions of this project is enabling efficient resource management and sustainable consumption patterns.
 
@@ -123,7 +123,7 @@ Forecast demand accurately
 
 This prevents unnecessary production and reduces environmental impact, aligning with SDG 12’s goal of ensuring sustainable consumption and production patterns.
 
-# 🌐 SDG 13: Climate Action (Indirect Contribution)
+## 🌐 SDG 13: Climate Action (Indirect Contribution)
 
 Although indirectly, the project supports climate action by reducing waste and improving supply chain efficiency.
 
@@ -135,7 +135,7 @@ Lower carbon emissions associated with logistics
 
 Efficient data-driven decision-making contributes to environmentally responsible business operations.
 
-# 📊 Overall Impact
+## 📊 Overall Impact
 
 The E-Commerce Data Warehouse project showcases how data analytics can drive sustainability by:
 
